@@ -17,8 +17,11 @@ A simple React-based calculator application that allows users to perform basic a
 ## 📦 Installation
 
 Clone the repository and install dependencies:
-git clone https://github.com/your-repo/calculator-app.git
+
+git clone https://github.com/ugo-oliobi/calculator-app
+
 cd calculator-app
+
 npm install
 
 ## ▶️ Usage
